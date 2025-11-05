@@ -5,8 +5,27 @@
 
 ---
 
-## 🌐 **Professional Titles**
+## 🌐 **Professional**
 **Information Systems Architect | Cloud & DevOps | Backend Engineering | QA & Security Compliance | DevSecOps Advocate**
+
+---
+
+## 🧭 **Self-Assigned Career Pathway & Pursuing Goal**
+
+**Primary Focus:**  
+To evolve as a **Cloud Security Architect & DevSecOps Systems Designer**, integrating automation, governance, and intelligence into every layer of modern infrastructure.
+
+**Pathway Vision:**  
+Guided by a philosophy of *clarity, resilience, and integrity in design*, my journey bridges **backend engineering**, **cloud automation**, and **security compliance** — crafting systems that are not only efficient but also ethically and structurally sound.
+
+**Current Pursuit:**  
+Building on my foundation in **Computer Science, QA, and Cloud DevOps**, I am advancing through certifications like **Microsoft Azure Security Engineer (AZ-500)** and real-world projects involving:
+- **DevSecOps orchestration** with GitHub Actions, Kubernetes, and policy-as-code.  
+- **Backend architecture** integrating secure data flows and multi-service scalability.  
+- **Compliance-driven system design** applying ISO, GRC, and Zero-Trust principles.
+
+**Long-Term Goal:**  
+To architect **secure, autonomous, and transparent cloud ecosystems** — where reliability and compliance coexist with creativity and speed; a space where technology enhances both human capability and organizational trust.
 
 ---
 
