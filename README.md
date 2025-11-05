@@ -243,8 +243,8 @@ end
 end
 
 %% Relations
-A =.=> PDCA
-PDCA =. "Feedback loop<br>(performance informs next Observe)" .=> O
+A -.-> PDCA
+PDCA -. "Feedback loop<br>(performance informs next Observe)" .-> O
 
 %% Class styling
 classDef outer fill:#A8C5DA,stroke:#6E8DA5,stroke-width:1.4px,color:#1F1F1F;
