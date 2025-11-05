@@ -1,38 +1,35 @@
 # 👋 Hi, I’m Quang Cuong Huynh
 
-## 🌟 **Personal Tagline**
+
 *"Building systems that are fast, secure, compliant, and scalable — where DevOps meets backend innovation."*
 
 ---
 
-## 🌐 **Professional**
-**Information Systems Architect | Cloud & DevOps | Backend Engineering | QA & Security Compliance | DevSecOps Advocate**
+## 🌐 **Pesuiting Professional**
+**Information Systems Architect | Backend Engineering | Cloud & DevOps Advocate | QA & Security Compliance**
 
 ---
+## 🌟 About Me
 
-## 🧭 **Self-Assigned Career Pathway & Pursuing Goal**
+  I am Quang Cuong Huynh, an Investigative–Conventional professional passionate about turning complexity into clarity and resilience in technology. With a solid foundation in System Architecture, Cloud & DevOps, QA & Compliance, I design systems that are scalable, secure, and audit-ready by default, bridging governance, innovation, and operational excellence.
 
-**Primary Focus:**  
-To evolve as a **Cloud Security Architect & DevSecOps Systems Designer**, integrating automation, governance, and intelligence into every layer of modern infrastructure.
+ - My primary goal is to become a Cloud & Security Specialist, leading the design of enterprise solutions that empower -  organizations and protect critical systems, while nurturing scalable, compliant, and resilient digital ecosystems.
 
-**Pathway Vision:**  
-Guided by a philosophy of *clarity, resilience, and integrity in design*, my journey bridges **backend engineering**, **cloud automation**, and **security compliance** — crafting systems that are not only efficient but also ethically and structurally sound.
+ - Primary Goal: Advance as a Cloud & DevOps professional with integrated security and compliance awareness, delivering systems that are resilient, efficient, and enterprise-ready.
 
-**Current Pursuit:**  
-Building on my foundation in **Computer Science, QA, and Cloud DevOps**, I am advancing through certifications like **Microsoft Azure Security Engineer (AZ-500)** and real-world projects involving:
-- **DevSecOps orchestration** with GitHub Actions, Kubernetes, and policy-as-code.  
-- **Backend architecture** integrating secure data flows and multi-service scalability.  
-- **Compliance-driven system design** applying ISO, GRC, and Zero-Trust principles.
+### Self Assign Career Pathway
 
-**Long-Term Goal:**  
-To architect **secure, autonomous, and transparent cloud ecosystems** — where reliability and compliance coexist with creativity and speed; a space where technology enhances both human capability and organizational trust.
+ - Short-term: Cloud/DevOps Associate, Database Administrator, QA/Compliance Analyst
+
+ - Mid-term: DevOps Engineer, Cloud Security Engineer, System Analyst
+
+ - Long-term: Cloud Architect, Security Architect, Enterprise System Strategist
 
 ---
 
 ## 📜 **Personal Manifesto**
-I believe that **software is not just about code — it’s about systems, processes, and impact**.  
-Every line of code, every pipeline, every deployment should contribute to **reliable, observable, and compliant technology ecosystems**.  
-I commit to building **cloud-native, automated, and secure systems** that scale with business needs, protect data, and empower teams to deliver with confidence.
+ -  I believe in **clarity**, **integrity**, and **resilience** as the foundations of every digital system. My drive is to analyze, design, and secure complex **architectures—transforming** fragmented processes into **structured, compliant, and scalable ecosystems**. I thrive on uncovering patterns, establishing structure, and building systems that empower people while withstanding change.
+ -  I commit to building **cloud-native, automated, and secure systems** that scale with business needs, protect data, and empower teams to deliver with confidence.
 
 ---
 
@@ -232,8 +229,8 @@ subgraph OODA["🌐 Outer Strategic Loop – OODA (Observe, Orient, Decide, Act)
     D["⚖️ **Decide**<br>Formulate strategic<br>response and plan"]:::outer
     A["🚀 **Act**<br>Initiate operational<br>execution (PDCA loop)"]:::outer
     O --> R --> D --> A --> O
-end
 
+      
 %% Inner loop: PDCA
 subgraph PDCA["⚙️ Inner Operational Loop – PDCA (Plan, Do, Check, Act)"]
     P["📋 **Plan**<br>Define targets and<br>methods of control"]:::inner
@@ -241,6 +238,8 @@ subgraph PDCA["⚙️ Inner Operational Loop – PDCA (Plan, Do, Check, Act)"]
     C["📊 **Check**<br>Assess results and<br>analyze deviations"]:::inner
     Ac["🔁 **Act**<br>Standardize or improve<br>process outcomes"]:::inner
     P --> Do --> C --> Ac --> P
+end
+
 end
 
 %% Relations
