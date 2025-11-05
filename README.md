@@ -11,11 +11,11 @@
 ---
 ## 🌟 About Me
 
->  I am Quang Cuong Huynh, an Investigative–Conventional professional passionate about turning complexity into clarity and resilience in technology. With a solid foundation in System Architecture, Cloud & DevOps, QA & Compliance, I design systems that are scalable, secure, and audit-ready by default, bridging governance, innovation, and operational excellence.
+>  I am Quang Cuong Huynh, an *Investigative–Conventional* professional passionate about turning complexity into clarity and resilience in technology. With a solid foundation in ***System Architecture***, ***Cloud & DevOps***, ***QA & Compliance***, I design systems that are **scalable**, **secure**, and **audit**-ready by default, bridging governance, innovation, and operational excellence.
 
-> My primary goal is to become a Cloud & Security Specialist, leading the design of enterprise solutions that empower -  organizations and protect critical systems, while nurturing scalable, compliant, and resilient digital ecosystems.
+> -  My primary goal is to become a **Cloud** & **Security** Specialist, leading the design of enterprise solutions that empower -  organizations and protect critical systems, while nurturing *scalable, compliant, and resilient* digital ecosystems.
 
- - Primary Goal: Advance as a Cloud & DevOps professional with integrated security and compliance awareness, delivering systems that are resilient, efficient, and enterprise-ready.
+> - Primary Goal: Advance as a Cloud & DevOps professional with integrated security and compliance awareness, delivering systems that are resilient, efficient, and enterprise-ready.
 
 ### Self Assign Career Pathway
 
