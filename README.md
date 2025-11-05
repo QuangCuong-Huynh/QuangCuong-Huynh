@@ -228,7 +228,7 @@ subgraph OODA["🌐 Outer Strategic Loop – OODA (Observe, Orient, Decide, Act)
     R["🧭 **Orient**<br>Analyze and contextualize<br>information streams"]:::outer
     D["⚖️ **Decide**<br>Formulate strategic<br>response and plan"]:::outer
     A["🚀 **Act**<br>Initiate operational<br>execution (PDCA loop)"]:::outer
-    O --> R --> D --> A --> O
+    O ==> R ==> D ==> A ==> O
 
       
 %% Inner loop: PDCA
@@ -237,14 +237,14 @@ subgraph PDCA["⚙️ Inner Operational Loop – PDCA (Plan, Do, Check, Act)"]
     Do["🔧 **Do**<br>Implement and observe<br>performance metrics"]:::inner
     C["📊 **Check**<br>Assess results and<br>analyze deviations"]:::inner
     Ac["🔁 **Act**<br>Standardize or improve<br>process outcomes"]:::inner
-    P --> Do --> C --> Ac --> P
+    P ==> Do ==> C ==> Ac ==> P
 end
 
 end
 
 %% Relations
-A -.-> PDCA
-PDCA -. "Feedback loop<br>(performance informs next Observe)" .-> O
+A =.=> PDCA
+PDCA =. "Feedback loop<br>(performance informs next Observe)" .=> O
 
 %% Class styling
 classDef outer fill:#A8C5DA,stroke:#6E8DA5,stroke-width:1.4px,color:#1F1F1F;
