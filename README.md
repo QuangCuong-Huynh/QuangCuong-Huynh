@@ -11,11 +11,11 @@
 ---
 ## 🌟 About Me
 
->  I am Quang Cuong Huynh, an *Investigative–Conventional* professional passionate about turning complexity into clarity and resilience in technology. With a solid foundation in ***System Architecture***, ***Cloud & DevOps***, ***QA & Compliance***, I design systems that are **scalable**, **secure**, and **audit**-ready by default, bridging governance, innovation, and operational excellence.
+ - I am Quang Cuong Huynh, an *Investigative–Conventional* professional passionate about turning complexity into clarity and resilience in technology. With a solid foundation in ***System Architecture***, ***Cloud & DevOps***, ***QA & Compliance***, I design systems that are **scalable**, **secure**, and **audit**-ready by default, bridging governance, innovation, and operational excellence.
 
-> -  My primary goal is to become a **Cloud** & **Security** Specialist, leading the design of enterprise solutions that empower -  organizations and protect critical systems, while nurturing *scalable, compliant, and resilient* digital ecosystems.
+ -  My primary goal is to become a **Cloud** & **Security** Specialist, leading the design of enterprise solutions that empower -  organizations and protect critical systems, while nurturing *scalable, compliant, and resilient* digital ecosystems.
 
-> - Primary Goal: Advance as a Cloud & DevOps professional with integrated security and compliance awareness, delivering systems that are resilient, efficient, and enterprise-ready.
+ - Primary Goal: Advance as a Cloud & DevOps professional with integrated security and compliance awareness, delivering systems that are resilient, efficient, and enterprise-ready.
 
 ### Self Assign Career Pathway
 
@@ -28,8 +28,8 @@
 ---
 
 ## 📜 **Personal Manifesto**
- > * I believe in **clarity**, **integrity**, and **resilience** as the foundations of every digital system. My drive is to analyze, design, and secure complex **architectures—transforming** fragmented processes into **structured, compliant, and scalable ecosystems**. I thrive on uncovering patterns, establishing structure, and building systems that empower people while withstanding change.
-> * I commit to building **cloud-native, automated, and secure systems** that scale with business needs, protect data, and empower teams to deliver with confidence.
+  * I believe in **clarity**, **integrity**, and **resilience** as the foundations of every digital system. My drive is to analyze, design, and secure complex **architectures—transforming** fragmented processes into **structured, compliant, and scalable ecosystems**. I thrive on uncovering patterns, establishing structure, and building systems that empower people while withstanding change.
+ * I commit to building **cloud-native, automated, and secure systems** that scale with business needs, protect data, and empower teams to deliver with confidence.
 
 ---
 
