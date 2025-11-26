@@ -6,8 +6,7 @@
 ---
 
 ## 🌐 **Pesuiting Professional**
-**Information Systems Architect | Backend Engineering | Cloud & DevOps Advocate | QA & Security Compliance**
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Information+Systems+Architect;Information+Systems+%26+Backend+Engineering+;Cloud+%26+DevOps+Advocate+%7C+QA+%26+Security+Compliance)](https://git.io/typing-svg)
 ---
 ## 🌟 About Me
 
