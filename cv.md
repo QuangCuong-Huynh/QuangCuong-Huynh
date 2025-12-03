@@ -2,9 +2,8 @@
 
 **IT System Administrator | DevOps Trainee**  
 Tay Ninh, Viet Nam
-## 🔗 **Connect With Me**
-Email:
-
+## 🔗 **Contact**
+Email: hqc022@gmail.com |
 Phone: 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quang-cuong-huynh-22a679274/) 
@@ -29,7 +28,7 @@ Phone:
 
 ## SUMMARY
 
-Entry-level IT professional with hands-on experience in Linux systems, basic networking, server administration, and scripting through academic training, self-directed labs, and real operational support within a family business and industrial quality environment. Strong foundation in operating systems, databases, and network services. Actively seeking an entry-level role in IT Support, System Administration, NOC, or DevOps to contribute to reliable infrastructure operations while continuously developing skills in production environmentsa and  eager to grow in an enterprise environment.
+Entry-level IT professional with hands-on experience in Linux systems, basic networking, server administration, and scripting through academic training, self-directed labs, and real operational support within a family business and industrial quality environment. Strong foundation in operating systems, databases, and network services. Actively seeking an entry-level role in IT Support, System Administration, NOC, or DevOps to contribute to reliable infrastructure operations while continuously developing skills in production environmentsa and eager to grow in an enterprise environment.
 
 ---
 
@@ -83,7 +82,7 @@ Supported product quality management, governance, and regulatory compliance acro
 **Key Skills Applied:**  
 Quality Assurance, Regulatory Compliance, Governance Risk & Compliance (GRC), Incident Management, Procedural Documentation, Cross-functional Coordination, Product Lifecycle Management  
 
-**Skills Archived:** Quality Management, Governance, Incident Management
+**Skills Archived:** Quality Management, Governance, Incident Management, Cooperate Coordination
 
 ---
 
