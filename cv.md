@@ -11,16 +11,27 @@ Phone:
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QuangCuong-Huynh)
 
-
 ---
 
-## PROFESSIONAL SUMMARY
+### Self Assign Pathway
+
+ - Short-term: DevOps, CloudOps, Administrator.
+    + (AZ-900, SC-900, AZ-104, RHCSA, Comptia CLoud+, Network+ or similar)
+
+ - Mid-term: DevOps Engineer, Cloud Security Engineer.
+    + (AWS SAA/SysOps, Comptia Sec+, SSCP, CKA, CKS or equivalent)
+
+ - Long-term: Cloud Architect, Security Architect.
+    + (CCSP, AZ-500, AWS Certified Security or equivalent)
+---
+
+## SUMMARY
 
 Entry-level IT professional with hands-on experience in Linux systems, basic networking, server administration, and scripting through academic training, self-directed labs, and real operational support within a family business and industrial quality environment. Strong foundation in operating systems, databases, and network services. Actively seeking an entry-level role in IT Support, System Administration, NOC, or DevOps to contribute to reliable infrastructure operations while continuously developing skills in production environments.
 
 ---
 
-## CORE TECHNICAL SKILLS (ATS-OPTIMIZED)
+## CORE TECHNICAL SKILLS
 
 **Operating Systems:** Linux (Ubuntu, CentOS, Fedora), Windows Server (basic)  
 **Networking:** TCP/IP, DNS, DHCP, VLANs, NAT, Firewalls, Subnetting  

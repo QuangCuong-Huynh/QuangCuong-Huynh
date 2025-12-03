@@ -14,14 +14,16 @@
 
  - Primary Goal: Advance as a Cloud & DevOps professional with integrated security and compliance awareness, delivering systems that are resilient, efficient, and enterprise-ready.
 
-### Self Assign Career Pathway
+### Self Assign Pathway
 
- - Short-term: DevOps Associate, Cloud Administrator, QA/Compliance Analyst
+ - Short-term: DevOps, CloudOps, Administrator.
+    + (AZ-900, SC-900, AZ-104, RHCSA, Comptia CLoud+, Network+ or similar)
 
- - Mid-term: DevOps Engineer, Cloud Security Engineer
+ - Mid-term: DevOps Engineer, Cloud Security Engineer.
+    + (AWS SAA/SysOps, Comptia Sec+, SSCP, CKA, CKS or equivalent)
 
- - Long-term: Cloud Architect, Security Architect
-
+ - Long-term: Cloud Architect, Security Architect.
+    + (CCSP, AZ-500, AWS Certified Security or equivalent)
 ---
 
 ## 📜 **Personal Manifesto**
