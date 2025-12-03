@@ -6,7 +6,7 @@
 ---
 
 ## 🌐 **Pesuiting Professional**
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Information+Systems+Architect;Information+Systems+%26+Backend+Engineering+;Cloud+%26+DevOps+Advocate+%7C+QA+%26+Security+Compliance)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Information+Systems+Operation;Information+Systems+%26+Backend+Engineering+;Cloud+%26+DevOps+Advocate+%7C+QA+%26+Security+Compliance)](https://git.io/typing-svg)
 ---
 ## 🌟 About Me
 
@@ -16,11 +16,11 @@
 
 ### Self Assign Career Pathway
 
- - Short-term: Cloud/DevOps Associate, Database Administrator, QA/Compliance Analyst
+ - Short-term: DevOps Associate, Cloud Administrator, QA/Compliance Analyst
 
- - Mid-term: DevOps Engineer, Cloud Security Engineer, System Analyst
+ - Mid-term: DevOps Engineer, Cloud Security Engineer
 
- - Long-term: Cloud Architect, Security Architect, Enterprise System Strategist
+ - Long-term: Cloud Architect, Security Architect
 
 ---
 
@@ -67,7 +67,7 @@ I structure my work around the **end-to-end software development lifecycle**, al
 ### 7️⃣ **Maintenance & Continuous Improvement**
 - Conduct **incident response, root-cause analysis, and remediation**  
 - Continuously improve pipelines and infrastructure for speed, security, and resilience  
-- Maintain compliance with OWASP, ISO 27001, SOC 2, and other security standards  
+- Maintain compliance with OWASP, ISO 27001, and other security standards  
 
 ---
 ## 🛠️ **Core Skills & Tools**
@@ -80,8 +80,8 @@ I structure my work around the **end-to-end software development lifecycle**, al
 | Planning & Design        | System Analysis, Requirement Gathering, Cloud Architecture, Security & Compliance Planning, [Agile](https://www.agilealliance.org/agile101/), [Kanban](https://www.atlassian.com/agile/kanban), [Scrumban](https://www.atlassian.com/agile/scrumban), [Business Analysis](https://img.shields.io/badge/Business_Analysis-Requirements-blue?style=for-the-badge&logo=lucidchart&logoColor=white), [Database Design](https://img.shields.io/badge/Database_Design-Architecture-orange?style=for-the-badge&logo=postgresql&logoColor=white) |
 | Development              | Node.js, Express, Python, Flask, FastAPI, REST APIs, PostgreSQL, MongoDB, Redis, Unit & Integration Testing, [NoseTest](https://nose.readthedocs.io/), [PyTest](https://docs.pytest.org/), [Behave BDD](https://behave.readthedocs.io/), [Mocha](https://mochajs.org/), [Chai](https://www.chaijs.com/), [Cypress](https://www.cypress.io/) |
 | CI/CD & Automation       | GitHub Actions, Docker, Kubernetes, Tekton CD, Compliance Automation |
-| QA & Security            | Selenium, Swagger, SonarQube, OWASP, ISO 27001, SOC 2, Policy-as-Code, SAST/DAST |
-| Deployment & Cloud Ops   | GCP, Azure, IBM Cloud, Red Hat OpenShift, Prometheus, Grafana, ELK Stack, Scaling & Reliability Management |
+| QA & Security            | Selenium, Swagger, SonarQube, OWASP, ISO 27001, Policy-as-Code, SAST/DAST |
+| Deployment & Cloud Ops   | GCP, Azure, IBM Cloud, Red Hat OpenShift, Prometheus, Grafana, Scaling & Reliability Management |
 | Maintenance & Improvement| Incident Response, Root Cause Analysis, Pipeline Optimization, Continuous Security & Compliance Improvement |
 
 ---
