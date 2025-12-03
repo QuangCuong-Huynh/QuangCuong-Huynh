@@ -4,8 +4,11 @@
 Tay Ninh, Viet Nam
 ## 🔗 **Connect With Me**
 Email:
+
 Phone: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quang-cuong-huynh-22a679274/)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quang-cuong-huynh-22a679274/) 
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QuangCuong-Huynh)
 
 
@@ -182,6 +185,9 @@ Programming Fundamentals, Operating Systems, Computer Networks, Database Systems
 • IBM Backend Development  
 • IBM Software Engineering & DevOps  
 • Google Cybersecurity  
+[![IBM DevOps and Software Engineering Professional Certificate](https://img.shields.io/badge/IBM-Devops%20-blue?style=for-the-badge&logo=ibm&logoColor=white)](https://coursera.org/share/75c6bd575ae6f3830e16c9d8aa8599dd)
+[![IBM Backend Development Certificate](https://img.shields.io/badge/IBM-Backend%20-blue?style=for-the-badge&logo=ibm&logoColor=white)](https://coursera.org/share/41bece88013ab929c277751765194050)
+[![Google Cybersecurity Certificate](https://img.shields.io/badge/Google-Cybersecurity%20-blue?style=for-the-badge&logo=ibm&logoColor=white)](https://coursera.org/share/ef710e7a5ff708ec68f97d59aeaf33ae)
 
 ---
 
