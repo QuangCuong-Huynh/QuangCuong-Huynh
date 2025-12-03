@@ -204,4 +204,4 @@ Customer & User Support
 
 ## AVAILABILITY
 
-Open to full-time entry-level roles, internships, or trainee programs in IT Support, System Administration, DevOps, NOC, or Cloud Operations.
+Open to full-time entry-level roles, Fresher or trainee programs in IT Support, System Administration, DevOps, SecOps, NOC, or Cloud Operations.

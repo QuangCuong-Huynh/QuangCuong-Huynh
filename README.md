@@ -300,3 +300,7 @@ style PDCA fill:#EEF5EF,stroke:#CDE3D1,stroke-width:0.8px;
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=QuangCuong-Huynh&show_icons=true&theme=radical)](https://github.com/QuangCuong-Huynh)  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QuangCuong-Huynh&layout=compact&theme=radical)](https://github.com/QuangCuong-Huynh)  
 [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=QuangCuong-Huynh&theme=onedark)](https://github.com/QuangCuong-Huynh)
+
+## AVAILABILITY
+
+Open to full-time entry-level roles, Fresher or trainee programs in IT Support, System Administration, DevOps, SecOps, NOC, or Cloud Operations.
