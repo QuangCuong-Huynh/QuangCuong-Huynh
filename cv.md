@@ -2,11 +2,12 @@
 
 **IT System Administrator | DevOps Trainee**  
 Tay Ninh, Viet Nam
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=QuangCuong-Huynh&show_icons=true&theme=radical)](https://github.com/QuangCuong-Huynh)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QuangCuong-Huynh&layout=compact&theme=radical)](https://github.com/QuangCuong-Huynh)  
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=QuangCuong-Huynh&theme=onedark)](https://github.com/QuangCuong-Huynh)
+## 🔗 **Connect With Me**
 Email:
 Phone: 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quang-cuong-huynh-22a679274/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QuangCuong-Huynh)
+
 
 ---
 
