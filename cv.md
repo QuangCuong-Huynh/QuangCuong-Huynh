@@ -11,6 +11,8 @@ Phone:
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QuangCuong-Huynh)
 
+[![Credly](https://img.shields.io/badge/credly-orange)](https://www.credly.com/users/quang-cuong-huynh/badges#credly)
+
 ---
 
 ### Self Assign Pathway
@@ -27,7 +29,7 @@ Phone:
 
 ## SUMMARY
 
-Entry-level IT professional with hands-on experience in Linux systems, basic networking, server administration, and scripting through academic training, self-directed labs, and real operational support within a family business and industrial quality environment. Strong foundation in operating systems, databases, and network services. Actively seeking an entry-level role in IT Support, System Administration, NOC, or DevOps to contribute to reliable infrastructure operations while continuously developing skills in production environments.
+Entry-level IT professional with hands-on experience in Linux systems, basic networking, server administration, and scripting through academic training, self-directed labs, and real operational support within a family business and industrial quality environment. Strong foundation in operating systems, databases, and network services. Actively seeking an entry-level role in IT Support, System Administration, NOC, or DevOps to contribute to reliable infrastructure operations while continuously developing skills in production environmentsa and  eager to grow in an enterprise environment.
 
 ---
 
@@ -35,13 +37,14 @@ Entry-level IT professional with hands-on experience in Linux systems, basic net
 
 **Operating Systems:** Linux (Ubuntu, CentOS, Fedora), Windows Server (basic)  
 **Networking:** TCP/IP, DNS, DHCP, VLANs, NAT, Firewalls, Subnetting  
-**Servers & Services:** Nginx, Apache, SSH, FTP, Samba, Mail Server  
+**Servers & Services:** Nginx, Apache, SSH, FTP, Mail Server  
 **Virtualization & Containers:** VMware, VirtualBox, Docker (basic)  
-**Programming & Scripting:** Python (basic), Bash  
+**Programming & Scripting:** C++, Python (basic), Bash
+**Backend Development:** Django, Flask, Node 
 **Databases:** MySQL, PostgreSQL  
 **Monitoring & Logs:** Linux Logging, Prometheus, Grafana (lab level)  
 **Version Control:** Git, GitHub  
-**Cloud Fundamentals:** AWS EC2, IAM, S3 (basic)
+**Cloud Fundamentals:** IBM cloud, Redhat OpenShift ServiceMesh; AWS EC2, IAM, S3 (basic)
 
 ---
 
@@ -56,7 +59,7 @@ Province, Vietnam | 2017 – 2022
 • Troubleshot basic IT issues including POS systems, printers, and local network connectivity  
 • Improved operational efficiency through workflow organization and stock control  
 
-**SFIA Alignment:** IT Operations (ITOP L2), User Support (CUST L2), Incident Support (USUP L2)
+*Skills Archived:** Business Operations, User Support, Incident Support
 
 ---
 
@@ -80,7 +83,7 @@ Supported product quality management, governance, and regulatory compliance acro
 **Key Skills Applied:**  
 Quality Assurance, Regulatory Compliance, Governance Risk & Compliance (GRC), Incident Management, Procedural Documentation, Cross-functional Coordination, Product Lifecycle Management  
 
-**SFIA Alignment:** Quality Management (QUAS L3), Governance (GOVN L2), Incident Management (USUP L3)
+**Skills Archived:** Quality Management, Governance, Incident Management
 
 ---
 
@@ -132,6 +135,7 @@ University & Independent Research | 2023 – 2025
 
 ### IBM Back-End Development Professional Certificate — 2025  
 **Role:** Back-End & DevOps Developer — Serverless 3-Service Cloud App (Capstone)
+**Stack:** Python, Flask, Django, Docker, OpenShift, Serverless, CI/CD, Git/GitHub, SQL/NoSQL  
 
 **Situation:** Built a serverless backend system to demonstrate full lifecycle DevOps and microservice deployment  
 **Task:** Design, secure, and deploy a three-service cloud-native backend using modern CI/CD and observability  
@@ -143,13 +147,11 @@ University & Independent Research | 2023 – 2025
 • Implemented monitoring with Prometheus and Grafana  
 **Result:** Delivered a fully deployable backend platform achieving ~70% faster deployment, validated through IBM certification  
 
-**Stack:** Python, Flask, Django, Docker, Kubernetes, OpenShift, Serverless, CI/CD, Git/GitHub, SQL/NoSQL  
-
 ---
 
 ### Applied Automation Test Project — IBM / Coursera  
 **Role:** Automation Test Developer  
-**Stack:** Python, PyTest, Behave, Selenium, Flask, Docker, GitHub Actions  
+**Stack:** Python, PyTest, Behave (BDD), Selenium, Flask API, Docker, GitHub Actions (CI/CD), JSON Schema, Faker Factory, Coverage.py, Postman, OWASP ZAP, Logging & Alerts
 
 **Situation:** Required to build a scalable automation test framework for a microservice API under Agile delivery  
 **Task:** Ensure end-to-end reliability and achieve ≥95% test coverage through TDD & BDD practices  
@@ -164,6 +166,7 @@ University & Independent Research | 2023 – 2025
 
 ### IBM DevOps & Software Engineering Professional Certificate — Coursera / IBM  
 **Role:** DevOps Engineer — Cloud Automation & CI/CD  
+**Stack:** Tekton CD, GitHub Actions, Docker, Kubernetes, OpenShift, Python, Bash/Shell scripting, Linux, Microservices Architecture, CI/CD, , Sonaqube, Snyk, OWASP ZAP, Agile/Scrum, Prometheus, Grafana, Cloud Platforms (IBM Cloud, Redhat OpenShift), TDD/BDD, Monitoring & Observability
 
 **Situation:** Legacy deployment processes were manual and error-prone  
 **Task:** Engineer full CI/CD automation and observability for scalable microservices  
@@ -176,12 +179,13 @@ University & Independent Research | 2023 – 2025
 ---
 
 ## EDUCATION
+ - University Coursework in Information Technology / Software Enngineering  
+VNU-HCMUS | 2014 – 2017  
+ - University Coursework in Information Technology / Computer Science  
+VNU-HCM-UIT | 2023 – 2024  
 
-University Coursework in Information Technology / Computer Science  
-University Name | 2023 – 2024  
-
-Completed Core Subjects:  
-Programming Fundamentals, Operating Systems, Computer Networks, Database Systems, Server & Network Management  
+ - Completed Core Subjects:  
+Programming Fundamentals, OOP, Operating Systems, Computer Networks, Database Systems, Server & Network Management  
 
 ---
 
