@@ -36,7 +36,7 @@ jobs:
             echo "Raw URL: $raw_url"
 
             # download README
-            curl -fL "$raw_url" -o "docs/readme.md" \
+            curl -fL "$raw_url" -o "docs/README.md" \
               || echo "Failed to download README for $name"
           done < projects-list.txt
 
