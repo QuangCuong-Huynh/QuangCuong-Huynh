@@ -116,13 +116,13 @@
   <meta name="route-pattern" content="/:user_id/:repository" data-turbo-transient>
   <meta name="route-controller" content="files" data-turbo-transient>
   <meta name="route-action" content="disambiguate" data-turbo-transient>
-  <meta name="fetch-nonce" content="v2:70610e58-25ab-0aa0-a0ad-b149ef93a386">
+  <meta name="fetch-nonce" content="v2:1b79030a-c223-9bf1-716c-8ee443d9f5b3">
 
     
   <meta name="current-catalog-service-hash" content="f3abb0cc802f3d7b95fc8762b94bdcb13bf39634c40c357301c4aa1d67a256fb">
 
 
-  <meta name="request-id" content="D001:FAC5C:DEDD93:E1DDE8:693C9BBA" data-pjax-transient="true"/><meta name="html-safe-nonce" content="119f996c12ef127dba978506fa709bcbd83a8665e313fad830e12d75269beaad" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJEMDAxOkZBQzVDOkRFREQ5MzpFMURERTg6NjkzQzlCQkEiLCJ2aXNpdG9yX2lkIjoiMjAzNDEwMzYyMTMyMjA1NDU4NiIsInJlZ2lvbl9lZGdlIjoic2VhIiwicmVnaW9uX3JlbmRlciI6InNlYSJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="d94925f1efe39b2d43aa1884075a5560b516dc6e3f2d7b3fdff27b93c3c1396b" data-pjax-transient="true"/>
+  <meta name="request-id" content="6001:134B03:2CC995:407B95:693C9CAF" data-pjax-transient="true"/><meta name="html-safe-nonce" content="063d75262c86a15e8fe607a88b6fb58cd87d085e2b881091b61002d4aad51eba" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI2MDAxOjEzNEIwMzoyQ0M5OTU6NDA3Qjk1OjY5M0M5Q0FGIiwidmlzaXRvcl9pZCI6IjcwNjY1ODY2ODk3NTMwOTUzNDQiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="f3bdc4e2177e500f1613ffe3763ed4b81fd5abbba5520aeec4946216c7ab4417" data-pjax-transient="true"/>
 
 
     <meta name="hovercard-subject-tag" content="repository:1069275393" data-turbo-transient>
@@ -294,10 +294,10 @@
           </a>
               <div class="AppHeader-appearanceSettings">
     <react-partial-anchor>
-      <button data-target="react-partial-anchor.anchor" id="icon-button-63657715-163c-4027-a7e2-ca91370f3903" aria-labelledby="tooltip-4173e66e-aba0-466f-904a-1511f1c38ed9" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
+      <button data-target="react-partial-anchor.anchor" id="icon-button-6c92018f-26c2-4e73-acfc-70d942bb3364" aria-labelledby="tooltip-f61ee3c2-b34a-4257-80b7-6290c1ee2aff" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
     <path d="M15 2.75a.75.75 0 0 1-.75.75h-4a.75.75 0 0 1 0-1.5h4a.75.75 0 0 1 .75.75Zm-8.5.75v1.25a.75.75 0 0 0 1.5 0v-4a.75.75 0 0 0-1.5 0V2H1.75a.75.75 0 0 0 0 1.5H6.5Zm1.25 5.25a.75.75 0 0 0 0-1.5h-6a.75.75 0 0 0 0 1.5h6ZM15 8a.75.75 0 0 1-.75.75H11.5V10a.75.75 0 1 1-1.5 0V6a.75.75 0 0 1 1.5 0v1.25h2.75A.75.75 0 0 1 15 8Zm-9 5.25v-2a.75.75 0 0 0-1.5 0v1.25H1.75a.75.75 0 0 0 0 1.5H4.5v1.25a.75.75 0 0 0 1.5 0v-2Zm9 0a.75.75 0 0 1-.75.75h-6a.75.75 0 0 1 0-1.5h6a.75.75 0 0 1 .75.75Z"></path>
 </svg>
-</button><tool-tip id="tooltip-4173e66e-aba0-466f-904a-1511f1c38ed9" for="icon-button-63657715-163c-4027-a7e2-ca91370f3903" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
+</button><tool-tip id="tooltip-f61ee3c2-b34a-4257-80b7-6290c1ee2aff" for="icon-button-6c92018f-26c2-4e73-acfc-70d942bb3364" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
 
       <template data-target="react-partial-anchor.template">
         <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-react.0dbbd1720b911899ca0c.module.css" />
@@ -345,7 +345,7 @@
                 
 
 
-<qbsearch-input class="search-input" data-scope="repo:QuangCuong-Huynh/devops-capstone-project" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="E_Hnfg0iRNYHz7KLp3rYfnXOO3R9HJiA-1aKPFWsT2IapbS22e3-SLMqM4KRSbrdcJTAHfHgEXL_0jSRLosr6Q" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="QuangCuong-Huynh/devops-capstone-project" data-current-org="" data-current-owner="QuangCuong-Huynh" data-logged-in="false" data-copilot-chat-enabled="false" data-nl-search-enabled="false" data-retain-scroll-position="true">
+<qbsearch-input class="search-input" data-scope="repo:QuangCuong-Huynh/devops-capstone-project" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="89JLI2BQhlCFy6yJ1RAGRPJYCLSySS3rBLCYIjN4oi9HUBCCFYGELNo5c9ILLxPJcwyClsEkRcvYUU-mNIDGKA" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="QuangCuong-Huynh/devops-capstone-project" data-current-org="" data-current-owner="QuangCuong-Huynh" data-logged-in="false" data-copilot-chat-enabled="false" data-nl-search-enabled="false" data-retain-scroll-position="true">
   <div
     class="search-input-container search-with-dialog position-relative d-flex flex-row flex-items-center mr-4 rounded"
     data-action="click:qbsearch-input#searchInputContainerClicked"
@@ -409,7 +409,7 @@
           ></div>
           <div class="QueryBuilder-InputWrapper">
             <div aria-hidden="true" class="QueryBuilder-Sizer" data-target="query-builder.sizer"></div>
-            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-c7df5c9f-b8f2-4baf-bdce-80332c73c1d9" data-target="query-builder.input" data-action="
+            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-0222e355-d49b-48f0-8ba4-be13b785bc43" data-target="query-builder.input" data-action="
           input:query-builder#inputChange
           blur:query-builder#inputBlur
           keydown:query-builder#inputKeydown
@@ -647,7 +647,7 @@
                   tabindex="-1"
                 ></ul>
         </div>
-      <div class="FormControl-inlineValidation" id="validation-c7df5c9f-b8f2-4baf-bdce-80332c73c1d9" hidden="hidden">
+      <div class="FormControl-inlineValidation" id="validation-0222e355-d49b-48f0-8ba4-be13b785bc43" hidden="hidden">
         <span class="FormControl-inlineValidation--visual">
           <svg aria-hidden="true" height="12" viewBox="0 0 12 12" version="1.1" width="12" data-view-component="true" class="octicon octicon-alert-fill">
     <path d="M4.855.708c.5-.896 1.79-.896 2.29 0l4.675 8.351a1.312 1.312 0 0 1-1.146 1.954H1.33A1.313 1.313 0 0 1 .183 9.058ZM7 7V3H5v4Zm-1 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path>
@@ -688,7 +688,7 @@
   
 </div>
       <scrollable-region data-labelled-by="feedback-dialog-title">
-        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="xPmZ8AXCjRN7TwMm48ZoBrSvf1P4NKygg1ByRk9DqOjORAj/zAH8EZtDdEnTGjOmfRnCihya9vqlxhTGlWnPBA==" />
+        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="WFj71/PktdxcEUHml+F68STkiCNYWv9b3925y102jevXoEc5VCKV39lUtFMTgEzJpZ2k5IIjtcg2Azvc7N6zTA==" />
           <p>We read every piece of feedback, and take your input very seriously.</p>
           <textarea name="feedback" class="form-control width-full mb-2" style="height: 120px" id="feedback"></textarea>
           <input name="include_email" id="include_email" aria-label="Include my email address so I can be contacted" class="form-control mr-2" type="checkbox">
@@ -726,7 +726,7 @@
         <div data-view-component="true" class="Overlay-body">        <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
         <div hidden class="create-custom-scope-form" data-target="custom-scopes.createCustomScopeForm">
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="ecPalUyrcGdqkCZETEk+sgfjGFWQWxz29bUxmxToY3ZGfAjCMc+drE2IrZ69A0472jwjOqHZ601nLKnLIu824A==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="KlqWdKeUWXmc+xzs0LujZDAsvsOj/cZdWKeCHzuhcO+Loo+NEYhyYeQ3pAs8m8EBGbV/F5xCo7b43j+nYJCz/g==" />
           <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
           <input type="hidden" id="custom_scope_id" name="custom_scope_id" data-target="custom-scopes.customScopesIdField">
@@ -744,7 +744,7 @@
                 placeholder="github-ruby"
                 required
                 maxlength="50">
-              <input type="hidden" data-csrf="true" value="Vx/TuxNn3wua6fqsbcQjyAh+l4Wc1CfIu2wqB+EIjvqHMDCNg2rb0UPO1A2yAQbGzTkXQ4FoP5A+3UTvolR9CQ==" />
+              <input type="hidden" data-csrf="true" value="NTnj4KSD3sLpt7kMc51H7PK5F5Fg+tuz6BkYXqYT1pbEveeFQWoowIGzsin+k0U2U/nB7ivGmwD4lHWuIVX8MQ==" />
             </auto-check>
           </div>
 
@@ -806,10 +806,10 @@
 
                 <div class="AppHeader-appearanceSettings">
     <react-partial-anchor>
-      <button data-target="react-partial-anchor.anchor" id="icon-button-607cd816-17d0-4716-b985-b16a78bec9fa" aria-labelledby="tooltip-93c9930d-8468-4584-a3e1-76751d27f310" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
+      <button data-target="react-partial-anchor.anchor" id="icon-button-9fa3e514-5320-4a92-ab13-85fa90cc1e01" aria-labelledby="tooltip-d294ee9b-e5f2-4e38-9288-451ef9e48df2" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
     <path d="M15 2.75a.75.75 0 0 1-.75.75h-4a.75.75 0 0 1 0-1.5h4a.75.75 0 0 1 .75.75Zm-8.5.75v1.25a.75.75 0 0 0 1.5 0v-4a.75.75 0 0 0-1.5 0V2H1.75a.75.75 0 0 0 0 1.5H6.5Zm1.25 5.25a.75.75 0 0 0 0-1.5h-6a.75.75 0 0 0 0 1.5h6ZM15 8a.75.75 0 0 1-.75.75H11.5V10a.75.75 0 1 1-1.5 0V6a.75.75 0 0 1 1.5 0v1.25h2.75A.75.75 0 0 1 15 8Zm-9 5.25v-2a.75.75 0 0 0-1.5 0v1.25H1.75a.75.75 0 0 0 0 1.5H4.5v1.25a.75.75 0 0 0 1.5 0v-2Zm9 0a.75.75 0 0 1-.75.75h-6a.75.75 0 0 1 0-1.5h6a.75.75 0 0 1 .75.75Z"></path>
 </svg>
-</button><tool-tip id="tooltip-93c9930d-8468-4584-a3e1-76751d27f310" for="icon-button-607cd816-17d0-4716-b985-b16a78bec9fa" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
+</button><tool-tip id="tooltip-d294ee9b-e5f2-4e38-9288-451ef9e48df2" for="icon-button-9fa3e514-5320-4a92-ab13-85fa90cc1e01" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
 
       <template data-target="react-partial-anchor.template">
         <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-react.0dbbd1720b911899ca0c.module.css" />
@@ -847,10 +847,10 @@
         <span class="js-stale-session-flash-signed-out" hidden>You signed out in another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
         <span class="js-stale-session-flash-switched" hidden>You switched accounts on another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
 
-    <button id="icon-button-a45dbcc0-43a9-44ad-9bb0-387c9c8119cb" aria-labelledby="tooltip-c3692dd6-8c3c-4297-931f-b15c90e21c5a" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
+    <button id="icon-button-912a2c4a-6e6c-4e38-a637-3ff425db41a5" aria-labelledby="tooltip-d29d69c1-b01f-4e12-bc80-97f025c25123" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
-</button><tool-tip id="tooltip-c3692dd6-8c3c-4297-931f-b15c90e21c5a" for="icon-button-a45dbcc0-43a9-44ad-9bb0-387c9c8119cb" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
+</button><tool-tip id="tooltip-d29d69c1-b01f-4e12-bc80-97f025c25123" for="icon-button-912a2c4a-6e6c-4e38-a637-3ff425db41a5" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
 
 
   
@@ -961,7 +961,7 @@
             <a href="/login?return_to=%2FQuangCuong-Huynh%2Fdevops-capstone-project" rel="nofollow" id="repository-details-watch-button" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/QuangCuong-Huynh/devops-capstone-project&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="f9c9d51410b8496cbbffcd1fdf3eed328111d7d2587635e42f9e51616aece0eb" aria-label="You must be signed in to change notification settings" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
     <path d="M8 16a2 2 0 0 0 1.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 0 0 8 16ZM3 5a5 5 0 0 1 10 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.519 1.519 0 0 1 13.482 13H2.518a1.516 1.516 0 0 1-1.263-2.36l1.703-2.554A.255.255 0 0 0 3 7.947Zm5-3.5A3.5 3.5 0 0 0 4.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.017.017 0 0 0-.003.01l.001.006c0 .002.002.004.004.006l.006.004.007.001h10.964l.007-.001.006-.004.004-.006.001-.007a.017.017 0 0 0-.003-.01l-1.703-2.554a1.745 1.745 0 0 1-.294-.97V5A3.5 3.5 0 0 0 8 1.5Z"></path>
 </svg>Notifications
-</a>    <tool-tip id="tooltip-fb561377-453e-4b22-9748-5f9d96cd579f" for="repository-details-watch-button" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">You must be signed in to change notification settings</tool-tip>
+</a>    <tool-tip id="tooltip-cdc9f2a4-398c-4da0-9f4d-1eb8e8cb37d4" for="repository-details-watch-button" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">You must be signed in to change notification settings</tool-tip>
 
   </li>
 
@@ -1050,7 +1050,7 @@
                 <a href="/login?return_to=%2FQuangCuong-Huynh%2Fdevops-capstone-project" rel="nofollow" id="files-overview-watch-button" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/QuangCuong-Huynh/devops-capstone-project&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="f9c9d51410b8496cbbffcd1fdf3eed328111d7d2587635e42f9e51616aece0eb" aria-label="You must be signed in to change notification settings" data-view-component="true" class="btn-sm btn btn-block">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
     <path d="M8 16a2 2 0 0 0 1.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 0 0 8 16ZM3 5a5 5 0 0 1 10 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.519 1.519 0 0 1 13.482 13H2.518a1.516 1.516 0 0 1-1.263-2.36l1.703-2.554A.255.255 0 0 0 3 7.947Zm5-3.5A3.5 3.5 0 0 0 4.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.017.017 0 0 0-.003.01l.001.006c0 .002.002.004.004.006l.006.004.007.001h10.964l.007-.001.006-.004.004-.006.001-.007a.017.017 0 0 0-.003-.01l-1.703-2.554a1.745 1.745 0 0 1-.294-.97V5A3.5 3.5 0 0 0 8 1.5Z"></path>
 </svg>Notifications
-</a>    <tool-tip id="tooltip-c268542d-4405-4954-99e5-8354632bb89e" for="files-overview-watch-button" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">You must be signed in to change notification settings</tool-tip>
+</a>    <tool-tip id="tooltip-8d95d08e-ca5e-44d1-a046-9ed5eb3bb165" for="files-overview-watch-button" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">You must be signed in to change notification settings</tool-tip>
 
         </div>
         <span>
@@ -1133,7 +1133,7 @@
     <path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
 </svg>
         <span data-content="Security">Security</span>
-          <include-fragment src="/QuangCuong-Huynh/devops-capstone-project/security/overall-count" accept="text/fragment+html" data-nonce="v2:70610e58-25ab-0aa0-a0ad-b149ef93a386" data-view-component="true">
+          <include-fragment src="/QuangCuong-Huynh/devops-capstone-project/security/overall-count" accept="text/fragment+html" data-nonce="v2:1b79030a-c223-9bf1-716c-8ee443d9f5b3" data-view-component="true">
   
   <div data-show-on-forbidden-error hidden>
     <div class="Box">
@@ -1167,22 +1167,22 @@
 </ul>
     <div style="visibility:hidden;" data-view-component="true" class="UnderlineNav-actions js-responsive-underlinenav-overflow position-absolute pr-3 pr-md-4 pr-lg-5 right-0">      <action-menu data-select-variant="none" data-view-component="true">
   <focus-group direction="vertical" mnemonics retain>
-    <button id="action-menu-61f221b5-f3fd-4f75-b3f0-c3dc1bb01114-button" popovertarget="action-menu-61f221b5-f3fd-4f75-b3f0-c3dc1bb01114-overlay" aria-controls="action-menu-61f221b5-f3fd-4f75-b3f0-c3dc1bb01114-list" aria-haspopup="true" aria-labelledby="tooltip-c2e5d6c5-103f-426b-92c7-392a167c2cf9" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium UnderlineNav-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
+    <button id="action-menu-1e60bf59-6e28-4eb2-8f30-c4532346549c-button" popovertarget="action-menu-1e60bf59-6e28-4eb2-8f30-c4532346549c-overlay" aria-controls="action-menu-1e60bf59-6e28-4eb2-8f30-c4532346549c-list" aria-haspopup="true" aria-labelledby="tooltip-7b7864ea-d01e-4352-8bac-d88fd63e0eb3" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium UnderlineNav-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
     <path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
 </svg>
-</button><tool-tip id="tooltip-c2e5d6c5-103f-426b-92c7-392a167c2cf9" for="action-menu-61f221b5-f3fd-4f75-b3f0-c3dc1bb01114-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Additional navigation options</tool-tip>
+</button><tool-tip id="tooltip-7b7864ea-d01e-4352-8bac-d88fd63e0eb3" for="action-menu-1e60bf59-6e28-4eb2-8f30-c4532346549c-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Additional navigation options</tool-tip>
 
 
-<anchored-position data-target="action-menu.overlay" id="action-menu-61f221b5-f3fd-4f75-b3f0-c3dc1bb01114-overlay" anchor="action-menu-61f221b5-f3fd-4f75-b3f0-c3dc1bb01114-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
+<anchored-position data-target="action-menu.overlay" id="action-menu-1e60bf59-6e28-4eb2-8f30-c4532346549c-overlay" anchor="action-menu-1e60bf59-6e28-4eb2-8f30-c4532346549c-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
   <div data-view-component="true" class="Overlay Overlay--size-auto">
     
       <div data-view-component="true" class="Overlay-body Overlay-body--paddingNone">          <action-list>
   <div data-view-component="true">
-    <ul aria-labelledby="action-menu-61f221b5-f3fd-4f75-b3f0-c3dc1bb01114-button" id="action-menu-61f221b5-f3fd-4f75-b3f0-c3dc1bb01114-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
+    <ul aria-labelledby="action-menu-1e60bf59-6e28-4eb2-8f30-c4532346549c-button" id="action-menu-1e60bf59-6e28-4eb2-8f30-c4532346549c-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
         <li hidden="hidden" data-menu-item="i0code-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-1c06c744-1546-4147-b521-ce8bacf78071" href="/QuangCuong-Huynh/devops-capstone-project" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-dcd0d8cd-2465-4f7e-84e7-da8c54cdf15c" href="/QuangCuong-Huynh/devops-capstone-project" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
@@ -1198,7 +1198,7 @@
         <li hidden="hidden" data-menu-item="i1issues-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-dd05d461-2684-46c2-b68e-461322fcccc3" href="/QuangCuong-Huynh/devops-capstone-project/issues" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-6dad810f-92e2-473f-86fe-c279df2b9831" href="/QuangCuong-Huynh/devops-capstone-project/issues" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
@@ -1214,7 +1214,7 @@
         <li hidden="hidden" data-menu-item="i2pull-requests-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-f73e0446-3e06-4e24-a051-0b616da4d4a2" href="/QuangCuong-Huynh/devops-capstone-project/pulls" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-a2ce5ae2-3bb4-4d18-af46-3a60bdec5372" href="/QuangCuong-Huynh/devops-capstone-project/pulls" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
@@ -1230,7 +1230,7 @@
         <li hidden="hidden" data-menu-item="i3actions-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-226fbc6f-7528-4c7d-a4be-6dcc4ec9a0f7" href="/QuangCuong-Huynh/devops-capstone-project/actions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-de21e48d-5434-4d45-bdac-15d71003e238" href="/QuangCuong-Huynh/devops-capstone-project/actions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play">
     <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path>
@@ -1246,7 +1246,7 @@
         <li hidden="hidden" data-menu-item="i4projects-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-3483e021-c3a4-44b6-8dfc-76d0464a4b3a" href="/QuangCuong-Huynh/devops-capstone-project/projects" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-9a5f8fe0-e566-4f71-ae9f-88aaaedfa54c" href="/QuangCuong-Huynh/devops-capstone-project/projects" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table">
     <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM6.5 6.5v8h7.75a.25.25 0 0 0 .25-.25V6.5Zm8-1.5V1.75a.25.25 0 0 0-.25-.25H6.5V5Zm-13 1.5v7.75c0 .138.112.25.25.25H5v-8ZM5 5V1.5H1.75a.25.25 0 0 0-.25.25V5Z"></path>
@@ -1262,7 +1262,7 @@
         <li hidden="hidden" data-menu-item="i5security-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-7e9cf53a-13c3-4f05-b129-5aec29d04ba4" href="/QuangCuong-Huynh/devops-capstone-project/security" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-af567d21-26e9-4129-88be-89d060989859" href="/QuangCuong-Huynh/devops-capstone-project/security" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield">
     <path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
@@ -1278,7 +1278,7 @@
         <li hidden="hidden" data-menu-item="i6insights-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-7b8d3fbc-b7b1-4900-abb9-f5b2905d5cbc" href="/QuangCuong-Huynh/devops-capstone-project/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-bfc04bd3-f095-496f-bc1c-1ffd5eb585f7" href="/QuangCuong-Huynh/devops-capstone-project/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph">
     <path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
@@ -1459,7 +1459,7 @@
 </react-partial>
 
 
-      <input type="hidden" data-csrf="true" value="TLmrlIdqFirVNLaIbOdl4UKQLj0KhdG0r58lbw2RtKpMm5t1ldNgZ9YiB9c4E7sKn26KF2zXkdtOgcDtf0Ga5g==" />
+      <input type="hidden" data-csrf="true" value="VXTk+lrKlw1RcqEpxDGnwThHT0HYDeVm3YaAX5c1xlcZYmT0GEAhC1L/nCjUZ1OyAaE8ATuyVpEvXJJiljh/IQ==" />
 </div>
   <div data-view-component="true" class="Layout-sidebar">      
 
@@ -1516,7 +1516,7 @@
       </a>
     </div>
 
-  <include-fragment src="/QuangCuong-Huynh/devops-capstone-project/hovercards/citation/sidebar_partial?tree_name=main" data-nonce="v2:70610e58-25ab-0aa0-a0ad-b149ef93a386" data-view-component="true">
+  <include-fragment src="/QuangCuong-Huynh/devops-capstone-project/hovercards/citation/sidebar_partial?tree_name=main" data-nonce="v2:1b79030a-c223-9bf1-716c-8ee443d9f5b3" data-view-component="true">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -1607,7 +1607,7 @@
         
             <div class="BorderGrid-row" hidden>
               <div class="BorderGrid-cell">
-                <include-fragment src="/QuangCuong-Huynh/devops-capstone-project/used_by_list" accept="text/fragment+html" data-nonce="v2:70610e58-25ab-0aa0-a0ad-b149ef93a386" data-view-component="true">
+                <include-fragment src="/QuangCuong-Huynh/devops-capstone-project/used_by_list" accept="text/fragment+html" data-nonce="v2:1b79030a-c223-9bf1-716c-8ee443d9f5b3" data-view-component="true">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -1635,7 +1635,7 @@
       <span title="3" data-view-component="true" class="Counter ml-1">3</span></a></h2>
 
 
-    <include-fragment aria-busy="true" aria-label="Loading contributors" src="/QuangCuong-Huynh/devops-capstone-project/contributors_list?count=3&amp;current_repository=devops-capstone-project&amp;items_to_show=3" data-nonce="v2:70610e58-25ab-0aa0-a0ad-b149ef93a386" data-view-component="true">
+    <include-fragment aria-busy="true" aria-label="Loading contributors" src="/QuangCuong-Huynh/devops-capstone-project/contributors_list?count=3&amp;current_repository=devops-capstone-project&amp;items_to_show=3" data-nonce="v2:1b79030a-c223-9bf1-716c-8ee443d9f5b3" data-view-component="true">
   
       <ul class="list-style-none ">
           <li class="mb-2 d-flex">
