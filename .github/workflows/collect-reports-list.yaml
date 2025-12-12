@@ -1,49 +1,58 @@
 name: Collect Reports List
-
 on:
   workflow_dispatch:
   push:
     paths:
       - "projects-list.txt"   # trigger when key-value data file changes
-
 jobs:
   collect:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write  # Required for pushing changes
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
-
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
       - name: Prepare reports directory
         run: mkdir -p reports
-
+        
       - name: Parse key-value file & download READMEs
         shell: bash
         run: |
           mkdir -p reports
       
           while IFS='=' read -r name repo; do
+            # Trim whitespace
+            name=$(echo "$name" | xargs)
+            repo=$(echo "$repo" | xargs)
+            
+            # Skip empty lines and comments
             [[ -z "$name" ]] && continue
             [[ "$name" =~ ^# ]] && continue
+            
             echo "Processing: $name"
             echo "Repo URL: $repo"
       
             # Convert GitHub URL to raw URL
-            raw_url=$(echo "$repo" | sed -E 's|github.com/|raw.githubusercontent.com/|; s|/blob/|/|')
+            raw_url=$(echo "$repo" | sed -E 's|github.com/([^/]+)/([^/]+)/blob/|raw.githubusercontent.com/\1/\2/|')
             echo "Raw URL: $raw_url"
       
-            # Download README into reports folder
+            # Download README into reports folder (fixed brace syntax)
             mkdir -p "reports/$name"
-            curl -fL "$raw_url" -o "reports/{$name}.md" \
+            curl -fL "$raw_url" -o "reports/${name}.md" \
               || echo "Failed to download README for $name"
           done < projects-list.txt
-
+          
       - name: Commit updated reports
         run: |
           git config --global user.name "auto-bot"
           git config --global user.email "bot@example.com"
-          git fetch
           git add reports
-          git commit -m "Auto update reports" || echo "No changes"
-          git pull
+          git diff --staged --quiet || git commit -m "Auto update reports"
+          
+      - name: Push changes
+        run: |
+          git pull --rebase origin ${{ github.ref_name }}
           git push
