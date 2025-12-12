@@ -1,0 +1,24 @@
+name: Collect Reports
+
+on:
+  schedule:
+    - cron: "0 2 * * *"   # daily at 2:00 
+  workflow_dispatch:
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Download READMEs
+        run: |
+          curl -L https://github.com/QuangCuong-Huynh/devops-capstone-project/docs/Readme.md > reports/devops-capstone-project.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "auto-bot"
+          git config --global user.email "bot@example.com"
+          git add reports/*
+          git commit -m "Updated reports" || echo "No changes"
+          git push
