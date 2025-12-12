@@ -19,6 +19,7 @@ jobs:
         run: |
           git config --global user.name "auto-bot"
           git config --global user.email "bot@example.com"
+          git fetch origin
           git add .
           git commit -m "Updated reports" || echo "No changes"
           git push
