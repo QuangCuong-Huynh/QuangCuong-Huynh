@@ -22,4 +22,5 @@ jobs:
           git fetch origin
           git add .
           git commit -m "Updated reports" || echo "No changes"
+          git pull
           git push
