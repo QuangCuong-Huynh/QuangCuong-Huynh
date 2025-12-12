@@ -36,7 +36,7 @@ jobs:
             mkdir -p "reports/$name"
             curl -fL "$raw_url" -o "reports/{$name}.md" \
               || echo "Failed to download README for $name"
-          done < docs/README.md
+          done < projects-list.txt
 
       - name: Commit updated reports
         run: |
