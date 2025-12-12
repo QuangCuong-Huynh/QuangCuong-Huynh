@@ -13,7 +13,7 @@ jobs:
 
       - name: Download READMEs
         run: |
-          curl -L https://github.com/QuangCuong-Huynh/devops-capstone-project/docs/Readme.md > reports/devops-capstone-project.md
+          curl -L https://github.com/QuangCuong-Huynh/devops-capstone-project/blob/c5e9ba088dbc8a46e4e7d76cd6a4f213757c4f52/docs/Readme.mdd > reports/devops-capstone-project.md
 
       - name: Commit changes
         run: |
