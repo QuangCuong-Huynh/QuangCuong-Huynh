@@ -20,22 +20,22 @@ jobs:
       - name: Parse key-value file & download READMEs
         shell: bash
         run: |
+          mkdir -p reports
+      
           while IFS='=' read -r name repo; do
-            # skip empty lines or malformed lines
             [[ -z "$name" ]] && continue
             [[ "$name" =~ ^# ]] && continue
-
+      
             echo "Processing: $name"
             echo "Repo URL: $repo"
+      
+            # Convert GitHub URL → raw URL
+            raw_url=$(echo "$repo" | sed 's/github.com/raw.githubusercontent.com/; s/blob\///')
+      
+            # Download README
+            curl -L "$raw_url" -o "reports/${name}.md" || echo "Failed to download README for $name"
+          done < projects-list.txt
 
-            # convert to raw README URL
-            raw_url="${repo/github.com/raw.githubusercontent.com}/docs/README.md"
-
-            # download README
-            curl -L "$raw_url" -o "reports/${name}.md" \
-              || echo "Failed to download README for $name"
-
-          done < projects.txt
 
       - name: Commit updated reports
         run: |
