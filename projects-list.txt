@@ -1,2 +1,2 @@
-devops-capstone-project=https://github.com/QuangCuong-Huynh/devops-capstone-project
-tdd-bdd-final-project=https://github.com/QuangCuong-Huynh/tdd-bdd-final-project
+devops-capstone-project=https://github.com/QuangCuong-Huynh/devops-capstone-project/blob/main/docs/README.md
+tdd-bdd-final-project=https://github.com/QuangCuong-Huynh/tdd-bdd-final-project/tree/main/docs
