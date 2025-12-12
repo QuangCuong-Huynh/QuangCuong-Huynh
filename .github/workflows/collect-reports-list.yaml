@@ -21,24 +21,22 @@ jobs:
         shell: bash
         run: |
           mkdir -p reports
-          
+      
           while IFS='=' read -r name repo; do
             [[ -z "$name" ]] && continue
             [[ "$name" =~ ^# ]] && continue
-
             echo "Processing: $name"
             echo "Repo URL: $repo"
-
-            # convert GitHub URL → raw URL
-            # works with blob URLs
-            raw_url=$(echo "$repo" | sed 's/github.com/raw.githubusercontent.com/; s/blob\///')
-
+      
+            # Convert GitHub URL to raw URL
+            raw_url=$(echo "$repo" | sed -E 's|github.com/|raw.githubusercontent.com/|; s|/blob/|/|')
             echo "Raw URL: $raw_url"
-
-            # download README
-            curl -fL "$raw_url" -o "docs/README.md" \
+      
+            # Download README into reports folder
+            mkdir -p "reports/$name"
+            curl -fL "$raw_url" -o "reports/{$name}.md" \
               || echo "Failed to download README for $name"
-          done < projects-list.txt
+          done < docs/README.md
 
       - name: Commit updated reports
         run: |
