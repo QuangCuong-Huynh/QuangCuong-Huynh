@@ -1,4 +1,4 @@
-name: Collect Reports
+name: Collect Reports List
 
 on:
   workflow_dispatch:
