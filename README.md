@@ -152,20 +152,46 @@ I structure my work around the **end-to-end software development lifecycle**, al
 - **Task:** Automate CI/CD pipelines, containerize microservices, and improve deployment reliability.  
 - **Action:** Built robust pipelines with **GitHub Actions & Argo, Tekton**, containerized applications using **Docker**, orchestrated deployments via **Kubernetes**, and integrated **automated testing (TDD/BDD)** for Python and Node.js services.  
 - **Result:** Deployment speed ↑ **80%**, uptime ↑ **99.9%**, fully audit-ready **DevSecOps workflow** established, enabling faster, safer releases.
+- **IBM Devops Capstone Porject:**
+
+> [![GitHub Repo](https://img.shields.io/badge/GitHub-Project%20Repository-black?logo=github)](https://github.com/QuangCuong-Huynh/devops-capstone-project)
+>[![Executive Report](https://img.shields.io/badge/Project-Executive%20Report-blue)](https://github.com/QuangCuong-Huynh/QuangCuong-Huynh/blob/main/reports/devops-capstone-project.md)
 
 ### 2️⃣ Backend Integration & Cloud Orchestration
 - **Situation:** Backend services were fragmented, inefficient, and hard to scale.  
 - **Task:** Design a unified, cloud-ready backend system with seamless orchestration.  
 - **Action:** Developed **REST APIs** with Node.js and Python, structured databases, integrated CI/CD, and deployed multi-module apps with **containerization** and **Kubernetes orchestration**.  
 - **Result:** Performance ↑ **40%**, zero-downtime upgrades, improved maintainability, and unified cloud orchestration.
+- **Backend Capstone Project (Serverless):**
+[![Main](https://img.shields.io/badge/Main%20Service-GitHub-blue?logo=github)](https://github.com/QuangCuong-Huynh/Back-end-Development-Capstone)
+[![S1](https://img.shields.io/badge/Service%201-GitHub-lightgrey?logo=github)](https://github.com/QuangCuong-Huynh/Back-End-Development-Songs)
+[![S2](https://img.shields.io/badge/Service%202-GitHub-lightgrey?logo=github)](https://github.com/QuangCuong-Huynh/Back-End-Development-Pictures)
 
-### 3️⃣ Cloud Compliance & Secure DevOps Framework
+### 3️⃣ Product Catalog Microservice – TDD & BDD (IBM DevOps Specialization)
+
+- **Situation:** After API completion, the system needed validation from the admin user’s perspective to ensure UI + backend behaviors matched business rules.
+- **Task:** Define and automate BDD scenarios to validate CRUD and search workflows from the UI.
+- **Action:**
+  - Authored 7 BDD scenarios (CRUD, search by category/name/availability) using Given–When–Then.
+  - Applied full TDD workflow (Red–Green–Refactor), built unit/integration/system tests with Nose, fixtures, and mocking.
+  - automated UI flows using BDD with Behave + Selenium across seven scenarios validating admin CRUD/search behavior.
+- **Result:**
+  -  All scenarios passed, confirming end-to-end correctness. Delivered business-readable acceptance tests and ensured UI/API alignment for real user workflows.
+  -  Delivered a maintainable, production-ready system with reliable CI/CD-ready tests, reducing post-release bugs and simplifying scaling.
+
+- **Test Driven Develop & Behavior Driven Develop Project (TDD & BDD):**
+  
+> [![GitHub Repo](https://img.shields.io/badge/GitHub-Project%20Repository-black?logo=github)](https://github.com/QuangCuong-Huynh/tdd-bdd-final-project)
+> [![Executive Report](https://img.shields.io/badge/Project-Executive%20Report-blue)](https://github.com/QuangCuong-Huynh/devops-capstone-project/edit/main/docs/README.md)
+
+### 4️⃣ Cloud Compliance & Secure DevOps Framework
 - **Situation:** Multi-service environments lacked integrated QA, security, and compliance automation.  
 - **Task:** Build automated, secure DevOps pipelines with embedded compliance.  
 - **Action:** Implemented **policy-as-code workflows**, automated **QA/security scans**, GitOps deployment, and audit-ready **compliance dashboards**.  
 - **Result:** Manual audit effort ↓ **90%**, release frequency ↑ **3×**, full compliance achieved, and system observability improved.
 
-### 4️⃣ Quality Assurance & Industrial Compliance
+### Quality Assurance & Industrial Compliance
+
 - **Situation/Task:** Supported QA and regulatory compliance in an industrial manufacturing environment.  
 - **Action:**  
   - Performed product inspections and defect tracking, collaborating closely with engineering teams.  
@@ -274,14 +300,6 @@ style PDCA fill:#EEF5EF,stroke:#CDE3D1,stroke-width:0.8px;
 
 ---
 
-**Visual Idea for Portfolio Implementation:**
-
-1. **Top Hero Section:** Dual-loop diagram (OODA & PDCA cycles) side by side with your declaration.
-2. **Principles Section:** Use a 2×2 icon grid showing each principle with its focus and outcome.
-3. **Workflow Section:** Horizontal Kanban-style timeline illustrating WIP limits → roadmap → iteration → incremental delivery.
-4. **Motto Section:** Prominently displayed as a banner or highlighted quote.
-
-
 ---
 
 
@@ -301,6 +319,7 @@ style PDCA fill:#EEF5EF,stroke:#CDE3D1,stroke-width:0.8px;
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=QuangCuong-Huynh&show_icons=true&theme=radical)](https://github.com/QuangCuong-Huynh)  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QuangCuong-Huynh&layout=compact&theme=radical)](https://github.com/QuangCuong-Huynh)  
+
 [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=QuangCuong-Huynh&theme=onedark)](https://github.com/QuangCuong-Huynh)
 
 ## AVAILABILITY
