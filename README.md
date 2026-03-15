@@ -1,327 +1,175 @@
-# 👋 Hi, I’m Quang Cuong Huynh
+<div align="center">
 
+# Quang Cuong Huynh
 
-*"Building systems that are fast, secure, compliant, and scalable — where DevOps meets backend innovation."*
+**`Security-Aware DevOps Engineer | GRC-Driven | DevSecOps | Cloud-Native`**
 
----
+*"Designing systems that are fast, secure, compliant, and audit-ready — where DevOps meets Governance."*
 
-## 🌐 **Pesuiting Professional**
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Information+Systems+Operation;Information+Systems+%26+Backend+Engineering+;Cloud+%26+DevOps+Advocate+%7C+QA+%26+Security+Compliance)](https://git.io/typing-svg)
----
-## 🌟 About Me
-
- - I am Quang Cuong Huynh, an *Investigative–Conventional* professional passionate about turning complexity into clarity and resilience in technology. With a solid foundation in ***System Operation	modified:   README.md***, ***Cloud & DevOps***, ***QA & Compliance***, I design systems that are **scalable**, **secure**, and **audit**-ready by default, bridging governance, innovation, and operational excellence.
-
- - Primary Goal: Advance as a Cloud & DevOps professional with integrated security and compliance awareness, delivering systems that are resilient, efficient, and enterprise-ready.
-
-### Self Assign Pathway
-
- - Short-term: DevOps, CloudOps, Administrator.
-    + (AZ-900, SC-900, AZ-104, RHCSA, Comptia CLoud+, Network+ or similar)
-
- - Mid-term: DevOps Engineer, Cloud Security Engineer.
-    + (AWS SAA/SysOps, Comptia Sec+, SSCP, CKA, CKS or equivalent)
-
- - Long-term: Cloud Architect, Security Architect.
-    + (CCSP, AZ-500, AWS Certified Security or equivalent)
----
-
-## 📜 **Personal Manifesto**
-  * I believe in **clarity**, **integrity**, and **resilience** as the foundations of every digital system. My drive is to analyze, design, and secure complex **architectures—transforming** fragmented processes into **structured, compliant, and scalable ecosystems**. I thrive on uncovering patterns, establishing structure, and building systems that empower people while withstanding change.
- * I commit to building **cloud-native, automated, and secure systems** that scale with business needs, protect data, and empower teams to deliver with confidence.
-
----
-
-## 🧩 Full Software Development Lifecycle (SDLC) & Agile + CI/CD Expertise
-
-I structure my work around the **end-to-end software development lifecycle**, aligned with Agile and DevOps practices:
-
-### 1️⃣ **Planning & Requirements**
-- Conduct **system analysis** and requirement gathering in Agile sprints  
-- Translate business needs into **technical architecture designs**  
-- Ensure security, compliance, and scalability are considered from the start  
-
-### 2️⃣ **Design & Architecture**
-- Design **microservices, 3-tier backend architectures, and RESTful APIs**  
-- Define **cloud infrastructure blueprints** (AWS, GCP, Azure) with **IaC (Terraform, Ansible)**  
-- Integrate **security-by-design principles** and policy-as-code workflows  
-
-### 3️⃣ **Development**
-- Backend: Node.js (Express), Python (Flask, FastAPI)  
-- Database: PostgreSQL, MongoDB, Redis  
-- Write **unit and integration tests** to ensure code quality and maintainability  
-
-### 4️⃣ **CI/CD & Automation**
-- Build and maintain **full CI/CD pipelines** using GitHub Actions, Jenkins, and GitLab CI  
-- Containerization and orchestration with **Docker & Kubernetes**  
-- Automate deployments and rollback strategies across multi-environment pipelines  
-
-### 5️⃣ **Testing & Quality Assurance**
-- Automated testing frameworks: Selenium, PyTest, Postman  
-- Conduct **static and dynamic code analysis (SAST/DAST)**  
-- Integrate QA pipelines into CI/CD for continuous quality checks  
-
-### 6️⃣ **Deployment & Cloud Operations**
-- Deploy and manage cloud-native applications in **AWS, GCP, Azure**  
-- Implement **monitoring, logging, and observability** with Prometheus, Grafana, ELK  
-- Manage **system reliability, scaling, and security compliance** in production environments  
-
-### 7️⃣ **Maintenance & Continuous Improvement**
-- Conduct **incident response, root-cause analysis, and remediation**  
-- Continuously improve pipelines and infrastructure for speed, security, and resilience  
-- Maintain compliance with OWASP, ISO 27001, and other security standards  
-
----
-## 🛠️ **Core Skills & Tools**
-
-
-## 💻 Core Skills & Tools (Comprehensive)
-
-| Lifecycle Stage          | Skills & Tools |
-|--------------------------|----------------|
-| Planning & Design        | System Analysis, Requirement Gathering, Cloud Architecture, Security & Compliance Planning, [Agile](https://www.agilealliance.org/agile101/), [Kanban](https://www.atlassian.com/agile/kanban), [Scrumban](https://www.atlassian.com/agile/scrumban), [Business Analysis](https://img.shields.io/badge/Business_Analysis-Requirements-blue?style=for-the-badge&logo=lucidchart&logoColor=white), [Database Design](https://img.shields.io/badge/Database_Design-Architecture-orange?style=for-the-badge&logo=postgresql&logoColor=white) |
-| Development              | Node.js, Express, Python, Flask, FastAPI, REST APIs, PostgreSQL, MongoDB, Redis, Unit & Integration Testing, [NoseTest](https://nose.readthedocs.io/), [PyTest](https://docs.pytest.org/), [Behave BDD](https://behave.readthedocs.io/), [Mocha](https://mochajs.org/), [Chai](https://www.chaijs.com/), [Cypress](https://www.cypress.io/) |
-| CI/CD & Automation       | GitHub Actions, Docker, Kubernetes, Tekton CD, Compliance Automation |
-| QA & Security            | Selenium, Swagger, SonarQube, OWASP, ISO 27001, Policy-as-Code, SAST/DAST |
-| Deployment & Cloud Ops   | GCP, Azure, IBM Cloud, Red Hat OpenShift, Prometheus, Grafana, Scaling & Reliability Management |
-| Maintenance & Improvement| Incident Response, Root Cause Analysis, Pipeline Optimization, Continuous Security & Compliance Improvement |
-
----
-
-### 📋 Agile & Project Management
-[![Agile](https://img.shields.io/badge/Agile-Project_Management-blue?style=for-the-badge&logo=agilealliance&logoColor=white)](https://www.agilealliance.org/agile101/)  
-[![Kanban](https://img.shields.io/badge/Kanban-Workflow-green?style=for-the-badge&logo=kanban&logoColor=white)](https://www.atlassian.com/agile/kanban)  
-[![Scrumban](https://img.shields.io/badge/Scrumban-Hybrid_Workflow-purple?style=for-the-badge&logo=kanban&logoColor=white)](https://www.atlassian.com/agile/scrumban)
-
-### 📊 Business Analysis & Database Design
-![Business Analysis](https://img.shields.io/badge/Business_Analysis-Requirements-blue?style=for-the-badge&logo=lucidchart&logoColor=white) 
-![Database Design](https://img.shields.io/badge/Database_Design-Architecture-orange?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 💻 Development & Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-#### Python Testing
-![NoseTest](https://img.shields.io/badge/NoseTest-Python-blue?style=for-the-badge&logo=python&logoColor=white) 
-![PyTest](https://img.shields.io/badge/PyTest-5A5A5A?style=for-the-badge&logo=pytest&logoColor=white)  
-![Behave BDD](https://img.shields.io/badge/Behave-BDD-orange?style=for-the-badge&logo=python&logoColor=white)  
-
-#### Node.js / JavaScript Testing
-![Mocha TDD](https://img.shields.io/badge/Mocha-TDD-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
-![Chai Assertion](https://img.shields.io/badge/Chai-Assertion-red?style=for-the-badge&logo=chai&logoColor=white)
-![Cypress E2E](https://img.shields.io/badge/Cypress-E2E-17202A?style=for-the-badge&logo=cypress&logoColor=white)
-
-### ⚙️ CI/CD & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-[![Tekton CD](https://img.shields.io/badge/Tekton-CD-0052CC?style=for-the-badge&logo=tekton&logoColor=white)](https://tekton.dev/)  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Compliance Automation](https://img.shields.io/badge/Compliance_Automation-Cloud-green?style=for-the-badge)
-
-### 🔒 QA & Security
-[![Swagger](https://img.shields.io/badge/Swagger-API_Docs-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)](https://swagger.io/)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-[![SAST/DAST](https://img.shields.io/badge/SAST_DAST-Security-FF5733?style=for-the-badge)]([#](https://www.credly.com/earner/earned/share/80cd96a8-1fbf-40b2-a568-6f922cca8e58))
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-[![Snyk](https://img.shields.io/badge/Snyk-Security-6CC24A?style=for-the-badge&logo=snyk&logoColor=white)](https://snyk.io/) 
-![OWASP](https://img.shields.io/badge/OWASP-Security-FF0000?style=for-the-badge&logo=owasp&logoColor=white) 
-[![ISO 27001](https://img.shields.io/badge/ISO_27001-Information_Security-blue?style=for-the-badge&logo=iso27001&logoColor=white)](https://www.iso.org/isoiec-27001-information-security.html)  
-[![SOC 2](https://img.shields.io/badge/SOC_2-Compliance-lightgrey?style=for-the-badge)](https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/socforserviceorganizations.html)
-
-### ☁️ Cloud Platforms & Deployment
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-[![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-0072C6?style=for-the-badge&logo=ibm&logoColor=white)](https://www.ibm.com/cloud)
-![Red Hat OpenShift](https://img.shields.io/badge/Red_Hat-OpenShift-D32F2F?style=for-the-badge&logo=red-hat&logoColor=white) 
-![Prometheus](https://img.shields.io/badge/Prometheus-FF6F00?style=for-the-badge&logo=prometheus&logoColor=white) 
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) 
-![ELK Stack](https://img.shields.io/badge/ELK-Stack-005571?style=for-the-badge)
-
----
-
-## 🚀 **Key STAR Projects & Capstone Highlights**
-
-### 1️⃣ DevOps Automation & Multi-Service Deployment
-- **Situation:** Manual deployments were slow, error-prone, and caused downtime.  
-- **Task:** Automate CI/CD pipelines, containerize microservices, and improve deployment reliability.  
-- **Action:** Built robust pipelines with **GitHub Actions & Argo, Tekton**, containerized applications using **Docker**, orchestrated deployments via **Kubernetes**, and integrated **automated testing (TDD/BDD)** for Python and Node.js services.  
-- **Result:** Deployment speed ↑ **80%**, uptime ↑ **99.9%**, fully audit-ready **DevSecOps workflow** established, enabling faster, safer releases.
-- **IBM Devops Capstone Porject:**
-
-> [![GitHub Repo](https://img.shields.io/badge/GitHub-Project%20Repository-black?logo=github)](https://github.com/QuangCuong-Huynh/devops-capstone-project)
->[![Executive Report](https://img.shields.io/badge/Project-Executive%20Report-blue)](https://github.com/QuangCuong-Huynh/QuangCuong-Huynh/blob/main/reports/devops-capstone-project.md)
-
-### 2️⃣ Backend Integration & Cloud Orchestration
-- **Situation:** Backend services were fragmented, inefficient, and hard to scale.  
-- **Task:** Design a unified, cloud-ready backend system with seamless orchestration.  
-- **Action:** Developed **REST APIs** with Node.js and Python, structured databases, integrated CI/CD, and deployed multi-module apps with **containerization** and **Kubernetes orchestration**.  
-- **Result:** Performance ↑ **40%**, zero-downtime upgrades, improved maintainability, and unified cloud orchestration.
-- **Backend Capstone Project (Serverless):**
-[![Main](https://img.shields.io/badge/Main%20Service-GitHub-blue?logo=github)](https://github.com/QuangCuong-Huynh/Back-end-Development-Capstone)
-[![S1](https://img.shields.io/badge/Service%201-GitHub-lightgrey?logo=github)](https://github.com/QuangCuong-Huynh/Back-End-Development-Songs)
-[![S2](https://img.shields.io/badge/Service%202-GitHub-lightgrey?logo=github)](https://github.com/QuangCuong-Huynh/Back-End-Development-Pictures)
-
-### 3️⃣ Product Catalog Microservice – TDD & BDD (IBM DevOps Specialization)
-
-- **Situation:** After API completion, the system needed validation from the admin user’s perspective to ensure UI + backend behaviors matched business rules.
-- **Task:** Define and automate BDD scenarios to validate CRUD and search workflows from the UI.
-- **Action:**
-  - Authored 7 BDD scenarios (CRUD, search by category/name/availability) using Given–When–Then.
-  - Applied full TDD workflow (Red–Green–Refactor), built unit/integration/system tests with Nose, fixtures, and mocking.
-  - automated UI flows using BDD with Behave + Selenium across seven scenarios validating admin CRUD/search behavior.
-- **Result:**
-  -  All scenarios passed, confirming end-to-end correctness. Delivered business-readable acceptance tests and ensured UI/API alignment for real user workflows.
-  -  Delivered a maintainable, production-ready system with reliable CI/CD-ready tests, reducing post-release bugs and simplifying scaling.
-
-- **Test Driven Develop & Behavior Driven Develop Project (TDD & BDD):**
-  
-> [![GitHub Repo](https://img.shields.io/badge/GitHub-Project%20Repository-black?logo=github)](https://github.com/QuangCuong-Huynh/tdd-bdd-final-project)
-> [![Executive Report](https://img.shields.io/badge/Project-Executive%20Report-blue)](https://github.com/QuangCuong-Huynh/devops-capstone-project/edit/main/docs/README.md)
-
-### 4️⃣ Cloud Compliance & Secure DevOps Framework
-- **Situation:** Multi-service environments lacked integrated QA, security, and compliance automation.  
-- **Task:** Build automated, secure DevOps pipelines with embedded compliance.  
-- **Action:** Implemented **policy-as-code workflows**, automated **QA/security scans**, GitOps deployment, and audit-ready **compliance dashboards**.  
-- **Result:** Manual audit effort ↓ **90%**, release frequency ↑ **3×**, full compliance achieved, and system observability improved.
-
-### Quality Assurance & Industrial Compliance
-
-- **Situation/Task:** Supported QA and regulatory compliance in an industrial manufacturing environment.  
-- **Action:**  
-  - Performed product inspections and defect tracking, collaborating closely with engineering teams.  
-  - Maintained QA documentation, assisted in **ISO/GRC audits**, and contributed to lifecycle reporting.  
-  - Applied structured **root-cause analysis** and recommended preventive measures to reduce recurring issues.  
-- **Result:** Reduced recurring defects, improved compliance reporting accuracy, and strengthened **process governance** and incident management.  
-
-
----
-
-## 🌟 Personal Project Management & Job Orchestration
-
-**I orchestrate work, projects, and teams with precision, agility, and resilience**, harmonizing rapid decision-making with continuous improvement. My approach integrates **agile situational awareness** and **operational rigor**, guided by a dual-loop philosophy:
-
-**🔄 Dual-Loop Philosophy:**
-
-* **OODA Loop:** Adaptive Decission strategy through Observe → Orient → Decide → Act
-* **PDCA Cycle:** Time-boxed period Operational excellence through Plan → Do → Check → Act
-
----
-
-### 🏛️ Declaration
-
-> “I operate at the intersection of **strategic insight** and **operational mastery**.
-> I observe, orient, and decide with clarity and purpose, while continuously refining processes to achieve measurable impact.
-> I orchestrate workflows, projects, and systems with precision, agility, and resilience, ensuring that every action informs the next, and every cycle drives sustainable improvement.”
-
----
-
-### ⚙️ Core Principles
-
-| Principle                         | Focus                                  | Outcome                                       |
-| --------------------------------- | -------------------------------------- | --------------------------------------------- |
-| **Strategic Agility (OODA)**      | Rapid assimilation & contextualization | Anticipate change and make adaptive decisions |
-| **Operational Excellence (PDCA)** | Implement, monitor, refine processes   | Continuous learning & improvement             |
-| **Integrated Orchestration**      | Align strategy & execution             | Tactical actions feed long-term vision        |
-| **Evidence-Based Adaptation**     | Data-driven reflection                 | Every iteration produces measurable impact    |
-
----
-```mermaid
-%%{init: {
-  "theme": "base",
-  "themeVariables": {
-    "primaryColor": "#A8C5DA",  /* soft academic blue for outer OODA nodes */
-    "secondaryColor": "#CDE3D1", /* calm sage green for inner PDCA nodes */
-    "tertiaryColor": "#F7F4E9", /* parchment tone for diagram background */
-    "fontFamily": "serif",
-    "fontSize": "14px",
-    "lineColor":"#8AA3B1",
-    "textColor":"#1F1F1F"
-  }
-}}%%
-
-graph TB
-
-%% Outer loop: OODA
-subgraph OODA["🌐 Outer Strategic Loop – OODA (Observe, Orient, Decide, Act)"]
-    O["👁️ **Observe**<br>Monitor environment,<br>collect situational data"]:::outer
-    R["🧭 **Orient**<br>Analyze and contextualize<br>information streams"]:::outer
-    D["⚖️ **Decide**<br>Formulate strategic<br>response and plan"]:::outer
-    A["🚀 **Act**<br>Initiate operational<br>execution (PDCA loop)"]:::outer
-    O ==> R ==> D ==> A ==> O
-
-      
-%% Inner loop: PDCA
-subgraph PDCA["⚙️ Inner Operational Loop – PDCA (Plan, Do, Check, Act)"]
-    P["📋 **Plan**<br>Define targets and<br>methods of control"]:::inner
-    Do["🔧 **Do**<br>Implement and observe<br>performance metrics"]:::inner
-    C["📊 **Check**<br>Assess results and<br>analyze deviations"]:::inner
-    Ac["🔁 **Act**<br>Standardize or improve<br>process outcomes"]:::inner
-    P ==> Do ==> C ==> Ac ==> P
-end
-
-end
-
-%% Relations
-A -.-> PDCA
-PDCA -. "Feedback loop<br>(performance informs next Observe)" .-> O
-
-%% Class styling
-classDef outer fill:#A8C5DA,stroke:#6E8DA5,stroke-width:1.4px,color:#1F1F1F;
-classDef inner fill:#CDE3D1,stroke:#87A48D,stroke-width:1.4px,color:#1F1F1F;
-
-%% Background refinement (conceptual layer)
-style OODA fill:#E6EEF2,stroke:#A8C5DA,stroke-width:0.8px;
-style PDCA fill:#EEF5EF,stroke:#CDE3D1,stroke-width:0.8px;
-```
----
-
-### 🏃‍♂️ Agile & Scrumban Workflow
-
-**Mindset:** Flexible yet structured project delivery for predictable, transparent, and iterative progress.
-
-**Core Practices:**
-
-* **📌 WIP Limits:** Maintain focus, prevent bottlenecks, ensure quality output
-* **🗂️ Job Roadmap & Sprint Stories:** Track tasks via Kanban-style boards and sprint stories aligned with roadmap milestones
-* **🔄 Continuous Feedback & Iteration:** Regular reviews & retrospectives refine workflows and process efficiency
-* **🚀 Incremental Delivery:** Deliver projects in small, testable increments to reduce risk and generate early value
-
----
-
-### 💡 Personal Motto
-
-> “**Observe, Decide, Act — Refine, Improve, Repeat.**”
-
----
-
----
-
-
-## 🔗 **Connect With Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quang-cuong-huynh-22a679274/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quang-cuong-huynh-22a679274/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QuangCuong-Huynh)
-[![Credly](https://img.shields.io/badge/credly-orange)](https://www.credly.com/users/quang-cuong-huynh/badges#credly)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/quang-cuong-huynh/badges)
 
-### 🏅 Certifications & Badges
-
-[![IBM DevOps and Software Engineering Professional Certificate](https://img.shields.io/badge/IBM-Devops%20-blue?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/5c9adecf-b0ba-45ca-8fce-4adbb123cf40)
-[![IBM Backend Development Certificate](https://img.shields.io/badge/IBM-Backend%20-blue?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/f7a7f06e-35e3-4da4-bfde-9a478048d08a)
+</div>
 
 ---
 
-### 📈 GitHub Activity & Stats
+## Unique Value Proposition
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=QuangCuong-Huynh&show_icons=true&theme=radical)](https://github.com/QuangCuong-Huynh)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QuangCuong-Huynh&layout=compact&theme=radical)](https://github.com/QuangCuong-Huynh)  
+I am a **cross-domain security and DevOps professional-in-training** who brings what most freshers cannot: real-world ISO/GRC compliance execution in industrial operations, verified DevSecOps pipeline delivery on IBM Cloud/OpenShift, and a structured self-directed gap-analysis methodology.
+
+My profile sits at the intersection of **Compliance Operations × Security Engineering × Cloud Automation** — making me immediately applicable in GRC Support, SecOps Analyst, QA Automation, and DevOps Engineer roles.
+
+---
+
+## Career Roadmap
+
+| Phase | Target Roles | Certifications |
+|---|---|---|
+| **Now — Short-term** | DevOps · CloudOps · Security Apprentice · QA Automation | AZ-900 ✅ Mock · SC-900 🔄 · AZ-104 🔄 |
+| **Mid-term** | DevOps Engineer · Cloud Security Engineer · SDET | CompTIA Sec+ · AWS SAA · CKA/CKS |
+| **Long-term** | Cloud Security Architect · GRC Architect | CCSP · AZ-500 · AWS Certified Security |
+
+---
+
+## Project Portfolio
+
+| # | Project | Domain | Stack | Evidence |
+|---|---|---|---|---|
+| 1 | **DevOps Capstone — Customer Accounts Microservice** | DevOps · CI/CD · Cloud | Python/Flask · Tekton · GitHub Actions · Docker · K8s · OpenShift · PostgreSQL | [![Repo](https://img.shields.io/badge/Repo-GitHub-black?logo=github)](https://github.com/QuangCuong-Huynh/devops-capstone-project) [![Report](https://img.shields.io/badge/Report-blue)](https://github.com/QuangCuong-Huynh/QuangCuong-Huynh/blob/main/reports/devops-capstone-project.md) |
+| 2 | **Backend Capstone — Serverless Multi-Service** | Backend · Cloud Orchestration | Node.js · Python · REST APIs · Kubernetes · IBM Cloud | [![Main](https://img.shields.io/badge/Main-GitHub-black?logo=github)](https://github.com/QuangCuong-Huynh/Back-end-Development-Capstone) [![S1](https://img.shields.io/badge/Songs-grey?logo=github)](https://github.com/QuangCuong-Huynh/Back-End-Development-Songs) [![S2](https://img.shields.io/badge/Pictures-grey?logo=github)](https://github.com/QuangCuong-Huynh/Back-End-Development-Pictures) |
+| 3 | **TDD/BDD Product Catalog Microservice** | QA Automation · SDET | Python · Flask · PyTest · Nose · Behave · Selenium · PostgreSQL | [![Repo](https://img.shields.io/badge/Repo-GitHub-black?logo=github)](https://github.com/QuangCuong-Huynh/tdd-bdd-final-project) |
+| 4 | **Cloud Compliance & Secure DevOps Framework** *(Course Recap — TBD)* | DevSecOps · Compliance-as-Code | SonarQube · Snyk · OWASP ZAP · GitHub Actions · Policy-as-Code | 🔄 In Progress |
+| 5 | **Industrial QA & ISO/GRC Compliance — Dintsun Case Study** *(Experience Recap)* | GRC · Audit · CAPA · RCA | ISO 9001/27001 Awareness · CAPA · RCA · Audit Trail Management | 🔄 Drafting |
+
+---
+
+## Certified Knowledge Stack
+
+### Active Certifications
+
+[![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/professional-cert/NJW5OG8LI416)
+[![Microsoft Cybersecurity Analyst](https://img.shields.io/badge/Microsoft-Cybersecurity_Analyst-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.coursera.org/account/accomplishments/professional-cert/AH0KYV2YWI5V)
+[![IBM DevOps](https://img.shields.io/badge/IBM-DevOps_%26_Software_Engineering-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/5c9adecf-b0ba-45ca-8fce-4adbb123cf40)
+[![IBM Backend](https://img.shields.io/badge/IBM-Back--End_Development-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/f7a7f06e-35e3-4da4-bfde-9a478048d08a)
+[![JHU Intrusion Detection](https://img.shields.io/badge/Johns_Hopkins-Intrusion_Detection-003366?style=for-the-badge&logo=academia&logoColor=white)](https://coursera.org/share/38cf627c66304af8c88c90970472e359)
+
+### In Progress — Gap-Driven Upskilling
+
+| Exam | Mock Score | Status |
+|---|---|---|
+| AZ-900 Azure Fundamentals | >70% ✅ | Passed mock → scheduling official |
+| ISC2 CC | 69–76% ✅ | Active remediation |
+| CompTIA Security+ | 69–76% ✅ | Active remediation |
+| SC-900 Azure Security | 🔄 | In training |
+| AZ-104 Azure Admin | 🔄 | In training |
+
+---
+
+## Core Competency Map
+
+| Layer | Skills & Tools |
+|---|---|
+| **Security & GRC** | ISO/GRC Compliance · Audit & Incident Reporting · RCA · CAPA · IAM · Zero Trust Awareness · NIST CSF · CIS Controls |
+| **DevSecOps** | SonarQube (SAST) · Snyk (SCA) · OWASP ZAP (DAST) · Security Headers · CORS · CI/CD Security Gates |
+| **CI/CD & Automation** | GitHub Actions · Tekton CD · GitOps · Docker · Kubernetes · Red Hat OpenShift · IBM Cloud CR |
+| **QA Engineering** | TDD (Red–Green–Refactor) · BDD (Behave/Selenium) · PyTest · Nose · Mocha · Chai · Cypress · 95%+ Coverage |
+| **Backend Development** | Python (Flask, FastAPI) · Node.js (Express) · REST APIs · PostgreSQL · MongoDB · Redis |
+| **Cloud & Infrastructure** | IBM Cloud · Azure · GCP · Prometheus · Grafana · ELK Stack · Nginx · VMware |
+| **Agile & Process** | Kanban · Scrumban · ZenHub · Sprint Planning · Backlog Grooming · Story Points · PDCA · OODA |
+
+---
+
+## STAR Project Highlights
+
+### 1 — DevOps Capstone: Customer Accounts Microservice
+
+**Situation:** Legacy manual deployment processes caused release delays and high integration error rates.  
+**Task:** Design and deliver a fully automated cloud-native CI/CD pipeline with quality and security gates.  
+**Action:** Managed 4 Agile sprints (ZenHub) from planning through containerized OpenShift deployment. Built TDD-compliant RESTful microservice (Python/Flask, 96% coverage, 32 passing tests). Automated CI with GitHub Actions (Flake8 + Nose). Added CORS and Security Headers in Sprint 2. Containerized with Docker, deployed to Kubernetes/OpenShift with PostgreSQL provisioning and Tekton CD.  
+**Result:** 99.9% uptime · 90% reduction in deployment errors · Full audit-ready DevSecOps workflow · Accelerated release cycles.
+
+---
+
+### 2 — Backend Capstone: Serverless Multi-Service Architecture
+
+**Situation:** Fragmented backend services were inefficient and difficult to scale independently.  
+**Task:** Design a unified, cloud-ready backend with seamless multi-service orchestration.  
+**Action:** Developed REST APIs with Node.js and Python, structured PostgreSQL databases, integrated CI/CD, and deployed multi-module applications using containerization and Kubernetes orchestration on IBM Cloud.  
+**Result:** Performance improved 40% · Zero-downtime upgrades achieved · Unified cloud orchestration delivered.
+
+---
+
+### 3 — TDD/BDD Product Catalog Microservice
+
+**Situation:** A production-style eCommerce catalog microservice required high reliability and business-readable test coverage.  
+**Task:** Implement full CRUD REST API via strict TDD and validate all admin UI workflows via BDD automation.  
+**Action:** Applied Red–Green–Refactor cycle for every endpoint. Used PyTest/Nose with fixtures and mocking for 95%+ unit/integration coverage. Authored 7 BDD scenarios (CRUD, search by category/name/availability) using Behave + Selenium with Given–When–Then structure.  
+**Result:** 95%+ test coverage · All 7 BDD scenarios passing · CI/CD-ready quality gates · Zero post-release regressions.
+
+---
+
+### 4 — Cloud Compliance & Secure DevOps Framework *(TBD — In Progress)*
+
+**Scope:** Map OWASP Top 10 controls to pipeline stages. Implement compliance-as-code using SonarQube, Snyk, and OWASP ZAP embedded in GitHub Actions. Produce audit-ready compliance dashboard and policy documentation.  
+**Status:** 🔄 Drafting artifact — targeting completion Q2 2026.
+
+---
+
+### 5 — Industrial QA & ISO/GRC Compliance — Dintsun Holding Case Study *(Experience Recap)*
+
+**Situation:** Manufacturing operations required rigorous quality assurance and regulatory compliance across production stages.  
+**Task:** Execute inspection, audit, incident reporting, and continuous improvement cycles aligned with ISO/GRC standards.  
+**Action:** Conducted 100% inspection sampling on critical production stages. Tracked 50+ defects/month with full lifecycle traceability. Led RCA and CAPA processes. Maintained ISO/GRC-compliant documentation and audit trails. Coordinated 10–20 cross-functional stakeholders to close findings.  
+**Result:** 30% reduction in defect recurrence · 120%+ sustained KPI performance · Strengthened process governance and compliance reporting accuracy.  
+**Status:** 🔄 Formalizing as written GRC case study artifact.
+
+---
+
+## Professional Experience
+
+### QA & Compliance Associate — Dintsun Holding, Vietnam (Apr 2022 – Apr 2023)
+
+Executed ISO/GRC-aligned audit cycles, RCA, and CAPA in an industrial manufacturing context. Maintained compliance documentation, audit trails, and control registers. Reduced repeat defects by 30% and sustained 120%+ KPI performance across reporting periods.
+
+### Operations Assistant — Family Business, Vietnam (2017 – 2022)
+
+Maintained Local infrastructure at 99% uptime. Delivered first-line incident response resolving 90%+ of issues same day. Enforced issue logging and operational discipline with near-zero unplanned downtime.
+
+---
+
+## Operational Philosophy
+
+I apply a dual-loop decision and execution model to every project and job search cycle:
+
+| Loop | Method | Application |
+|---|---|---|
+| **Strategic** | OODA — Observe → Orient → Decide → Act | Market sensing, gap identification, adaptive pivoting |
+| **Operational** | PDCA — Plan → Do → Check → Act | Sprint execution, test coverage, continuous improvement |
+
+> *"Observe, Decide, Act — Refine, Improve, Repeat."*
+
+---
+
+## GitHub Activity
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=QuangCuong-Huynh&show_icons=true&theme=radical)](https://github.com/QuangCuong-Huynh)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QuangCuong-Huynh&layout=compact&theme=radical)](https://github.com/QuangCuong-Huynh)
 
 [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=QuangCuong-Huynh&theme=onedark)](https://github.com/QuangCuong-Huynh)
 
-## AVAILABILITY
+---
 
-Open to full-time entry-level roles, Fresher or trainee programs in IT Support, System Administration, DevOps, SecOps, NOC, or Cloud Operations.
+## Availability
+
+**Open to:** Security Apprentice · QA Automation Engineer · Junior DevOps · Cloud Operations · GRC/Compliance Analyst  
+**Location:** Ho Chi Minh City, Vietnam · Hybrid/Remote ready · Immediate availability  
+**Commitment:** Full-time · Long-term career growth · High-performance delivery
+
+---
+
+<div align="center">
+
+*Last updated: 2026-03 · Version: 2.0 · Maintained by Quang Cuong Huynh*
+
+</div>
